@@ -1,2 +1,2 @@
 # hello-world
-Ideas and Thoughts
+Ideas and Thoughts plus more
